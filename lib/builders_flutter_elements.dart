@@ -1,3 +1,3 @@
-library flutter_elements;
+library builders_flutter_elements;
 
 export 'src/touchable/touchable.dart';
